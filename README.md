@@ -16,8 +16,7 @@ A web-based system designed to organize hospital staff schedules and replace man
 ### My Contribution
 Contributed to developing system interfaces, database structures, back-end functionality, REST APIs, testing, deployment, and documentation.
 
-### Screenshots
----
+
 
 ## 2. Unified Links Portal
 A centralized web portal designed to provide hospital staff with organized access to important systems, resources, and official links.
@@ -31,8 +30,7 @@ A centralized web portal designed to provide hospital staff with organized acces
 ### My Contribution
 Contributed to front-end development, database design, REST APIs, access control, testing, deployment, and technical documentation.
 
-### Screenshots
----
+
 
 ## 3. Quality Management System (QMS)
 A web-based system designed to support the Quality Department in managing policies, meetings, committees, departments, facilities, and related documents.
@@ -48,8 +46,7 @@ A web-based system designed to support the Quality Department in managing polici
 ### My Contribution
 Contributed to enhancing system interfaces, database structures, REST APIs, validation, access control, integration testing, deployment, and documentation.
 
-### Screenshots
----
+
 
 ## 4. Standards Management System (QSMS)
 An accreditation-focused platform designed to manage standards, evidence, policies, and accreditation requirements such as CBAHI and ISO.
@@ -66,8 +63,7 @@ An accreditation-focused platform designed to manage standards, evidence, polici
 Contributed to developing accreditation and standards management features, database structures, REST APIs, and AI-powered functionality using the OpenAI API.
 Participated in testing AI-assisted standards extraction and gap analysis, validating results, deploying new features, and preparing technical documentation.
 
-### Screenshots
----
+
 
 ## Technologies & Skills
 - Full-Stack Web Development
